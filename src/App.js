@@ -1,5 +1,5 @@
 import "./App.css";
-import "./Components/Weather-app/WeatherApp";
+import WeatherApp from "./Components/Weather-app/WeatherApp"; // adjust the path as needed
 
 function App() {
   return (
