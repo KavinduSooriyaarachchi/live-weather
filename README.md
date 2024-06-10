@@ -1,3 +1,16 @@
+
+![live weather](https://github.com/KavinduSooriyaarachchi/live-weather/assets/95389495/6931d103-2c33-48f7-ae23-0d58fa583d75)
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
